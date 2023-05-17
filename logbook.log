@@ -1,0 +1,15 @@
+[main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  com.hostelmgm.App  - Hello World!
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  com.hostelmgm.App  - 	***Welcome To Hostel Management***
+  [main] INFO  com.hostelmgm.App  - 	***Welcome To Hostel Management***
+  [main] INFO  com.hostelmgm.App  - 
+Press 1 for Registration 
+ Press 2 for Login
+  [main] INFO  serviceImpl.loginregisterImpl  - Welcome to lpgin
+  [main] INFO  com.hostelmgm.App  - 	***Welcome To Hostel Management***
+  [main] INFO  com.hostelmgm.App  - 
+Press 1 for Registration 
+ Press 2 for Login
+  [main] INFO  serviceImpl.loginregisterImpl  - Welcome to login
+  
