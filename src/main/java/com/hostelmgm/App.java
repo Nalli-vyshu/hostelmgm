@@ -23,6 +23,7 @@ public class App
           case 1->ln.registartion();
           case 2-> ln.login();
           
+          
           }
     }
 }

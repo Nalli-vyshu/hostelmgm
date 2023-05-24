@@ -19,8 +19,7 @@ public interface userdashboardDAO {
 	public user viewProfile(int Uid);
 
 }
-@Override
-  public user viewUserProfile(int userId){
+public user viewUserProfile(int userId){
 	  
 	  try(Session ses=hibernateUtil.getSession())
 	  {
